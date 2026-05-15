@@ -1,8 +1,8 @@
 # homebrew-tap
 
-Homebrew tap for [thesmos-ai](https://github.com/thesmos-ai) projects.
+Homebrew tap for [thesm-os](https://github.com/thesm-os) projects.
 
 ```sh
-brew tap thesmos-ai/tap
+brew tap thesm-os/tap
 brew install --cask protoc-gen-codec
 ```
